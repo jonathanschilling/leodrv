@@ -1,0 +1,10 @@
+leodrv.ko
+.leodrv.ko.cmd
+leodrv.mod.c
+leodrv.mod.o
+.leodrv.mod.o.cmd
+leodrv.o
+.leodrv.o.cmd
+modules.order
+Module.symvers
+.tmp_versions
